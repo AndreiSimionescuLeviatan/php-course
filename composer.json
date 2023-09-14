@@ -1,0 +1,9 @@
+{
+    "name": "andrei/php-course2020-master",
+    "autoload": {
+        "psr-4": {
+            "Andrei\\PhpCourse2020Master\\": "src/"
+        }
+    },
+    "require": {}
+}

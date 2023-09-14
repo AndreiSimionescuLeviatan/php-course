@@ -1,0 +1,14 @@
+{
+    "name": "andrei/16_autoloading",
+    "autoload": {
+        "psr-4": {
+            "Andrei\\16Autoloading\\": "src/"
+        }
+    },
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./app"
+        }
+    }
+}

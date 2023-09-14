@@ -1,0 +1,23 @@
+{
+    "TODO item 1": {
+        "completed": true
+    },
+    "TODO item 2": {
+        "completed": true
+    },
+    "andrei": {
+        "completed": false
+    },
+    "nkn": {
+        "completed": false
+    },
+    "monitor": {
+        "completed": false
+    },
+    "monitor bun": {
+        "completed": false
+    },
+    "adi": {
+        "completed": false
+    }
+}
